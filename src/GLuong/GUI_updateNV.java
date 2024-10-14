@@ -180,6 +180,7 @@ public class GUI_updateNV extends JFrame implements ActionListener, MouseListene
                 }
             }
             
+            
             if (!update) {
                 JOptionPane.showMessageDialog(null, "Không có nhân viên mã " + MaNV);
             }
